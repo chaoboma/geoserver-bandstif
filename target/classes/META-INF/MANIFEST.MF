@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: chaobo
+Build-Jdk: 17.0.1
+Specification-Title: Multiple bands tif wms Module
+Specification-Version: 2.22.0
+Specification-Vendor: Open Source Geospatial Foundation
+Implementation-Title: Multiple bands tif wms Module
+Implementation-Version: 2.22.0
+Implementation-Vendor-Id: org.geoserver.community
+Implementation-Vendor: Open Source Geospatial Foundation
+Application-Name: 
+Build-Timestamp: 06-5￦ﾜﾈ-2023 06:31
+Created-By: Maven Integration for Eclipse
+GeoServerModule: community
+Git-Revision: 
+Iteration-Name: 
+Project-Version: 2.22.0
+

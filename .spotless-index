@@ -1,0 +1,8 @@
+aC5inuGnzQyaoeTmIrOHUJgmCW9+oRdllgblFahPDEA=
+src\main\java\org\geoserver\wms\bandstif\BandstifConfig.java 2023-04-23T12:51:30Z
+src\main\java\org\geoserver\wms\bandstif\BandstifMapResponse.java 2023-05-06T06:58:04Z
+src\main\java\org\geoserver\wms\bandstif\util\BandstifWCSUtils.java 2023-04-23T12:54:16Z
+src\main\java\org\geoserver\wms\bandstif\util\RecodeRaster.java 2023-04-23T12:54:30Z
+src\main\java\org\geoserver\wms\bandstif\web\BandstifLayerConfigPanel.java 2023-04-23T13:28:46Z
+src\test\java\org\geoserver\wms\bandstif\BandstifTest.java 2023-04-23T13:23:36Z
+src\test\java\org\geoserver\wms\bandstif\DDSMapProducerTest.java 2023-04-23T12:59:14Z
